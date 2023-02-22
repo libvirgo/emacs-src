@@ -9,7 +9,7 @@ Type=Application
 Terminal=false
 Categories=Development;TextEditor;
 StartupNotify=true
-StartupWMClass=Emacs
+StartupWMClass=EmacsClient
 Keywords=emacsclient;
 Actions=new-window;new-instance;
 
